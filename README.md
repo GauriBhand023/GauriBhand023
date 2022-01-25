@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 💬 Ask me about **Datasructures and Algirithms**
+- 💬 Ask me about **Datastructures and Algorithms**
 
 - 📫 How to reach me **htcgauribhand@gmail.com**
 
