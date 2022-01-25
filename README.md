@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 💬 Ask me about **Datastructures and algorithms, web development**
+- 💬 Ask me about **Datastructures and Algorithms, Web Development, C++**
 
 - 📫 How to reach me **htcgauribhand@gmail.com**
 
-- ⚡ Fun fact **I'm afraid of dolls**
+- ⚡ Fun fact **I'm Afraid of Dolls**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
