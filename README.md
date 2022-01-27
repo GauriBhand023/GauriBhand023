@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gauri Bhand</h1>
-<h3 align="center">A passionate web developer from India.</h3>
+<h3 align="center">A passionate Web Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauribhand023&label=Profile%20views&color=0e75b6&style=flat" alt="gauribhand023" /> </p>
 
-- 🌱 I’m currently learning **Full stack web development.**
+- 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 💬 Ask me about **Data Structures and Algorithms, Web Development, C++**
 
