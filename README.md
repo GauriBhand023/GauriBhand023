@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gauri Bhand!</h1>
-<h3 align="center">I'm passionate web developer and competitive programmer from india!</h3>
+<h3 align="center">I'm Passionate Web Developer and Competitive Programmer from India!</h3>
 
 
 <br/>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *Full Stack Web Development*
 
-- 💬 Ask me about *Data Structures,Algorithm,Web-Development,c++*
+- 💬 Ask me about *Data Structures, Algorithm, Web-Development, c++*
 
 - 📫 How to reach me *htcgauribhand@gmail.com*
 
