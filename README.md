@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gauri Bhand!</h1>
-<h3 align="center">A Full Stack Web Developer in the Making who loves to evolve new Technology and inspire others!</h3>
+<h3 align="center">I'm passionate web developer and competitive programmer from india!</h3>
 
 
 <br/>
@@ -45,8 +45,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/gauri-bhand-718848219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_gauri.bhand/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <p align="left">
 <a href="https://linkedin.com/in/Gauri Bhand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gauri Bhand" height="30" width="40" /></a>
 <a href="https://instagram.com/_gauri.bhand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".aashvi.78" height="30" width="40" /></a>
