@@ -47,11 +47,7 @@
 
 <a href = "https://www.linkedin.com/in/gauri-bhand-718848219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_gauri.bhand/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <p align="left">
-<a href="https://linkedin.com/in/Gauri Bhand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gauri Bhand" height="30" width="40" /></a>
-<a href="https://instagram.com/_gauri.bhand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".aashvi.78" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/GauriBhand023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="GauriBhand02378" height="30" width="40" /></a>
-</p>
+
 
 </p>
 
