@@ -8,11 +8,11 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 I’m currently learning *Full Stack Web Development*
+- 🌱 I’m currently learning ***Full Stack Web Development***
 
-- 💬 Ask me about *Data Structures, Algorithm, Web-Development, c++*
+- 💬 Ask me about ***Data Structures, Algorithms, Web-Development, C++***
 
-- 📫 How to reach me *htcgauribhand@gmail.com*
+- 📫 How to reach me ***htcgauribhand@gmail.com***
 
 - ⚡ Fun fact *I'm Affraid of dolls!*
 
