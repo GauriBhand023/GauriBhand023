@@ -14,7 +14,7 @@
 
 - 📫 How to reach me ***htcgauribhand@gmail.com***
 
-- ⚡ Fun fact *I'm Affraid of dolls😬!*
+- ⚡ Fun fact *I'm Affraid of dolls!😬*
 
 ## 🚀 Languages and Tools:
 <br/>
