@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-![Gauri Bhand's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauriBhand023&theme=redical)
+![Gauri Bhand's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauriBhand023&theme=Darcula)
 
 ## Connect with me:
 <p align="left">
