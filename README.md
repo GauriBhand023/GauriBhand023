@@ -47,7 +47,7 @@
 
 <a href = "https://www.linkedin.com/in/gauri-bhand-718848219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_gauri.bhand/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.codechef.com/users/gauri023"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
+<a href = "https://www.codechef.com/users/gauri_1006"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
 
 
 </p>
